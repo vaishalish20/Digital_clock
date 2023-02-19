@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Orbitron:wght@900&display=swap');
+
+    body{
+        background-color: black;
+    }
+    #Digital_Clock{
+        color:palevioletred;
+        position:absolute;
+        top:50%;
+        left:50%;
+        font-family:'Mynerve';
+        font-size:70px;
+        letter-spacing: 6px;
+        transform:translateX(-50%) translateY(-50%);
+        font-weight: bold;
+    }
